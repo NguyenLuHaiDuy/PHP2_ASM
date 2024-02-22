@@ -1,0 +1,5 @@
+
+Đây là link admin
+http://localhost/Asm_php2/admin
+tk admin: admin@gmail.com \ 123456789
+
